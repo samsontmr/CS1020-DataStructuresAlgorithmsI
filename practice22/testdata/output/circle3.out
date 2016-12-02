@@ -1,0 +1,5 @@
+Enter colour: 
+Enter colour: Enter radius: Enter centre: 
+1st circle: [yellow, 10.0, (0.0,0.0)]
+2nd circle: [green, 0.3, (-1.4,2.1)]
+They are not identical.
